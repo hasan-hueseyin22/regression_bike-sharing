@@ -1,5 +1,3 @@
-# src/model.py
-
 import optuna
 from catboost import CatBoostRegressor
 from sklearn.metrics import mean_squared_error
