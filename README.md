@@ -54,7 +54,7 @@ Nach Abschluss der Optimierung werden die besten gefundenen Hyperparameter ausge
 
 ## 📂 Repository-Struktur
 ```
-bike-sharing-regression/
+regression_bike-sharing/
 ├── data/
 ├── models/
 ├── notebooks/
