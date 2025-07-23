@@ -1,5 +1,3 @@
-# src/config.py
-
 # Paths
 DATA_URL = "https://archive.ics.uci.edu/ml/machine-learning-databases/00275/Bike-Sharing-Dataset.zip"
 RAW_DATA_DIR = "data/raw/"
