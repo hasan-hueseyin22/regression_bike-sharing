@@ -27,7 +27,7 @@ Ein solches Modell kann Betreibern helfen, die Verfügbarkeit von Fahrrädern zu
 1.  **Repository klonen:**
     ```bash
     git clone [https://github.com/hasan-hueseyin22/regression_bike-sharing.git](https://github.com/hasan-hueseyin22/regression_bike-sharing.git)
-    cd bike-sharing-regression
+    cd regression_bike-sharing
     ```
 
 2.  **Virtuelle Umgebung erstellen und aktivieren (empfohlen):**
