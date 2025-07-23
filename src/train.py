@@ -1,5 +1,3 @@
-# src/train.py
-
 import pandas as pd
 import joblib
 import optuna
